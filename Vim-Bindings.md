@@ -6,7 +6,7 @@ https://www.python.org/download
 ## Lua
 http://joedf.users.sourceforge.net/luabuilds/
 
-Copy the dll to the vim binaries folder
+For Windows copy the dll to the vim binaries folder.
 
 ## Ruby
 http://rubyinstaller.org/downloads/
