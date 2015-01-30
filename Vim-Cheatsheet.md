@@ -58,14 +58,5 @@ Diff
 - `:diffupdate`       update diff color (useful after undo operation)
 
 What to do on a vim -u NONE -N?
-============================
-- `:set path=**`                sets the path to cwd and recursively
-- `:set path=**,other/**`       comma separated list of paths
-- `:set suffixesadd=.java,.py`  use this to avoid extension when using find
-- `:find somefile`              finds somefile in path
-- `:syntax on`                  activate syntax highlighting
-- `:set wildmode=full`          gives you autocompletion (try with find!)
-- `:set wildmenu`               to show in a menu the autocompletion
-- `:set wildignore=*.pyc,...`   ignore certain filetypes when autocompleting
-- `:ls`                         list buffers
-- `:Explore`                    use builtin exlorer instead of NERDTree
+===============================
+https://github.com/tpope/vim-sensible
